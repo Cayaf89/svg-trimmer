@@ -1,14 +1,18 @@
-# svg-trimmer
+# SVG Trimmer
 
-This template should help get you started developing with Vue 3 in Vite.
+This app provides a simple interface to trim SVG files.
 
-## Recommended IDE Setup
+## To use with Laravel Valet
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Follow the instructions on this video
 
-## Customize configuration
+https://www.youtube.com/watch?v=bIZBNYFXcKU
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Then run 
+
+```sh
+npm run build
+```
 
 ## Project Setup
 

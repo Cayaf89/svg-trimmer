@@ -15,10 +15,12 @@ a,
   transition: 0.4s;
 }
 
-@media (hover: hover) {
-  a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
-  }
+a {
+  background-color: hsla(160, 100%, 37%, 0.2)
+}
+
+a.filepond--credits {
+  color: white;
 }
 
 @media (min-width: 1024px) {
@@ -30,4 +32,9 @@ a,
   #app {
     padding: 0 2rem;
   }
+}
+
+.container {
+  display: flex;
+  column-gap: 4rem;
 }

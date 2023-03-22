@@ -1,5 +1,5 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+// import TheWelcome from '../components/TheWelcome.vue'
 // let svg = document.getElementsByTagName("svg")[0];
 // let bbox = svg.getBBox();
 // let viewBox = [bbox.x, bbox.y, bbox.width, bbox.height].join(" ");
@@ -9,6 +9,6 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <template>
     <main>
-        <TheWelcome/>
+<!--//        <TheWelcome/>-->
     </main>
 </template>
